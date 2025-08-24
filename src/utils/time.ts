@@ -1,0 +1,1 @@
+export const timeShort = (ms: number) => new Date(ms).toLocaleTimeString();
