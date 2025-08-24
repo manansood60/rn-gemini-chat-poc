@@ -37,6 +37,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "AI_PROVIDER": "gemini",
+      "GEMINI_API_KEY": "AIzaSyADSE1JDp8_zMcKlVlQTzqnbAxAZO7YQQU",
+      "GEMINI_MODEL": "gemini-2.5-flash"
     }
   }
 }
